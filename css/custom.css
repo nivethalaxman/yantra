@@ -1,0 +1,99 @@
+.feed-box, .recent-activities{
+	border: none;
+  background: #fff;
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+  border-radius: 0;
+}
+label {
+    display: inline-block;
+    margin-bottom: 0px;
+    font-size: 14px;
+}
+.form_tabs .nav-link{
+	    font-size: 15px;
+    padding: 10px 10px;
+    color: #464a4c;
+}
+
+.form_tabs .nav-link.active{
+	    color: #f7941e;
+}
+.form_tabs .tab-pane{
+	padding-top:20px;
+}
+.btn-success {
+    color: #fff;
+    background-color: #f58632;
+    border-color: #f58632;
+}
+.btn-success:hover {
+    color: #fff;
+    background-color: #7d7d7d;
+    border-color: #7d7d7d;
+}
+.machine-registration .select select {
+	font-size: 18px!important;
+}
+.machine img{
+    width: 146px;
+    height: 97px;
+    text-align: center;
+}
+.machine{
+    width: 100%;
+    text-align: center;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+.home-page.active nav.navbar{
+    width: calc(100% - 68px);
+}
+
+.shrink .sidenav-header img {
+  width: inherit;
+  margin-left: 156px;
+}
+.entry_time{
+    font-size: 13px;
+    margin-top: 6px;
+}
+.entry_time span{
+    font-weight: bold;
+}
+.activities_table{
+    height: 215px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.dot_mrgn{
+    margin-top: 3px;
+}
+.status_list{
+    list-style: none;
+}
+.status_list li{
+    padding: 9px 0px!important;
+}
+.status_list span{
+        float: right;
+    padding: 8px;
+    color: #fff!important;
+    border-radius: 30px;
+    background: #f7941e;
+    font-weight: 800!important;
+}
+.status_card{
+    padding: 5px!important;
+}
+.select_holder{
+    background: #fff;
+}
+.card_status{
+    margin-bottom: 20px;
+}
+.status_list li{
+    font-size: 15px;
+}
+.table_margin{
+    margin-top: 30px;
+}

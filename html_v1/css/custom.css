@@ -1,0 +1,58 @@
+.header{
+	margin-top: 20px;
+}
+.logo{
+	float:left;
+}
+.nav_right{
+	float: right;
+	width: 200px;
+	height: 50px;
+}
+
+.nav_right ul{
+	text-align: right;
+    margin-top: 5px;
+}    
+.nav_right ul li{
+	display: inline-block;
+	text-transform: uppercase;
+	margin-left:5px;
+}
+.nav_right ul li a{
+	border:1px solid #fff;
+	border-radius:30px;
+	-webkit-border-radius:30px;
+	-moz-border-radius:30px;
+	padding: 5px 10px;
+	font-size: 10px;
+	color: #fff;
+}
+.nav_right ul li a:hover{
+	color: #f7941d;
+	text-decoration: none;
+	border:1px solid #f7941d;
+}
+.mid_text{
+	text-align: center;
+	color: #fff;
+	margin: 225px auto 0px auto;
+	width: 520px;
+}
+.mid_text h1{
+	font-size: 50px;
+	font-weight: 200;
+}
+.mid_text p{
+	font-size: 14px;
+	margin-bottom: 30px;
+	padding: 0px 50px;
+}
+.login_bg{
+	background: #f2f2f2;
+	height: calc(100vh - 70px);
+}
+.login_inner{
+	width: 500px;
+	margin: 0 auto;
+}
